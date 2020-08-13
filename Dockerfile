@@ -1,2 +1,2 @@
-FROM dinesh/webapp
+FROM python
 ADD . /var/www/html
